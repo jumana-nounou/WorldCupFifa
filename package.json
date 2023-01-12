@@ -1,0 +1,41 @@
+{
+  "name": "fifaworldcup",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.10.5",
+    "@emotion/react": "^11.10.5",
+    "@emotion/server": "^11.10.0",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/rubik": "^4.5.11",
+    "@material-ui/core": "^4.12.4",
+    "@mui/icons-material": "^5.10.16",
+    "@mui/material": "^5.10.17",
+    "@stripe/react-stripe-js": "^1.16.1",
+    "@stripe/stripe-js": "^1.46.0",
+    "add": "^2.0.6",
+    "axios": "^1.2.2",
+    "chart.js": "^4.1.2",
+    "eslint": "8.29.0",
+    "eslint-config-next": "13.0.6",
+    "next": "13.0.6",
+    "or": "^0.2.0",
+    "pusher-js": "^8.0.0",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.1.0",
+    "react-devtools": "^4.27.1",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.41.5",
+    "react-router-dom": "^6.6.1",
+    "sass": "^1.57.1",
+    "stripe": "^8.185.0",
+    "tailwind": "^4.0.0",
+    "yarn": "^1.22.19"
+  }
+}
